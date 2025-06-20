@@ -1,0 +1,181 @@
+ul{
+
+}
+p{
+    color: #767C95;
+}
+a{
+    text-decoration: none;
+}
+.email a{
+    color: #767C95;
+}
+.phone a{
+    color: #767C95;
+}
+.h-nav a{
+    color: #767C95;
+}
+
+
+.header-1-cnt {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+}
+.header-1{
+    background-color: rgb(248, 246, 246);
+}
+.social {
+    display: flex;
+    gap: 20px;
+}
+.contact{
+    display: flex;
+    gap: 20px;
+}
+.header-2-cnt {
+    display: flex;
+    padding: 8px;
+    justify-content: space-between;
+}
+.h-nav ul{
+    display: flex;
+    align-items: center;
+    gap: 80px;
+}
+#hero{
+    background-image: url('reen-img/banner.png');
+    height: 100vh;
+    text-align: center;
+}
+
+.hero-cnt{
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    align-items: center;
+    justify-content: center;
+    color: aliceblue;
+    gap: 30px;
+
+}
+.hero-cnt p{
+    max-width: 768px;
+}
+.her0-bt{
+    color: aliceblue;
+    background-color: rgb(89, 194, 161);
+    padding: 7px;
+    
+}
+.h-nav{
+    display: flex;
+}
+.about-text {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 25px;
+    padding: 25px;
+}
+.about-text p{
+     color: #767C95; 
+     max-width: 750px;
+}
+.about-text-2 p{
+    color: #767C95;
+}
+#latest-work{
+    background-color: #F3F4F8 ;
+    padding: 45px;
+    
+}
+.h2-p{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.love-logo{
+    display: flex;
+}
+.about-img{
+    display: flex;
+    align-items: flex-start;
+    gap: 20px;
+    text-align: left;
+
+}
+.about-cnt{
+    text-align: center;
+}
+.motel-text{
+    text-align: center;
+    background-color: rgb(255, 255, 255);
+}
+.work-text{
+    text-align: center;
+    padding: 40px;
+}
+#work{
+    text-align: center;
+}
+.work-text p{
+    color: #767C95;
+}
+.motel-text p{
+    color: #767C95;
+}
+.work-ctb a{
+    display: inline-block;
+    background-color: #2ADCB1;
+    color: #F3F4F8;
+    padding: 8px;
+}
+.footer-1{
+    background-color: #2F4052;
+    padding: 25px;
+}
+.work-ctb{
+    margin-bottom: 50px;
+}
+.motel-cnt{
+    margin-bottom: 40px;
+}
+.enter-email {
+    display: flex;
+    align-items: center;
+    gap: 1px;
+    background: #6c847e;
+    padding: 3px;
+    border-radius: 3px;
+}
+.enter-email input {
+    background: transparent;
+    border: none;
+    outline: none;
+    color: white;
+    width: 100%;
+}
+.enter-email input::placeholder{
+    color: rgba(255, 255, 255, 0.231);
+    font-size: 13px;
+}
+.enter-email a{
+    background-color: #00C27C;
+    color: white;
+    padding: 2px 4px;
+    border-radius: 3px;
+
+}
+.footer-2{
+    background-color: #293646;
+    padding: 15px 0px;
+}
+
+
+
+
+
+
